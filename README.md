@@ -15,6 +15,7 @@ O repositório tem como objetivo registrar o conhecimento obtido durante toda a 
 ![Screenshot](src/assets/prints/TeacherList_1.PNG)
 ![Screenshot](src/assets/prints/TeacherList_2.PNG)
 ![Screenshot](src/assets/prints/TeacherList_3.PNG)
+![Screenshot](src/assets/prints/TeacherList_4.PNG)
 
 ## Favorites
 ![Screenshot](src/assets/prints/Favorites_1.PNG)

@@ -9,7 +9,7 @@ O repositório tem como objetivo registrar o conhecimento obtido durante toda a 
 ![Screenshot](src/assets/prints/Landing.PNG)
 
 ## TeacherForm
-![Screenshot](src/assets/prints/TeacherFrom.PNG)
+![Screenshot](src/assets/prints/TeacherForm.PNG)
 
 ## TeacherList
 ![Screenshot](src/assets/prints/TeacherList_1.PNG)
